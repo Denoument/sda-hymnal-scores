@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "format": "image",
+  "baseUrl": "https://github.com/Denoument/sda-hymnal-scores/releases/download/v1/",
+  "archive": "scores.zip",
+  "sizeBytes": 16980101,
+  "sha256": "f7d3487a813b6be4555caa2bf3a6969750f47c76ed69e09fed635cc0125f94ec"
+}
